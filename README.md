@@ -156,6 +156,7 @@ No known bugs at this time.
 ## Authors
 Eunice Hogba - [Github](https://github.com/Eupene) / [Twitter](https://twitter.com/EuniceHogba)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Tumi Thaki - [Github](https://github.com/tumi-thaki) / [Twitter](https://twitter.com/thaki_tumisang)
 
 Second part of Airbnb: Joann Vuong
 ## License
